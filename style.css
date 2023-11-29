@@ -50,10 +50,11 @@ body {
     border-width: 5px;
     border-radius: 10px;
     padding: 5px;
-    border-color: black
-    position: relative;
+    border-color: black;
     
 }
 
+#carbonara_title {
+    background-color: black;
 
-
+}
